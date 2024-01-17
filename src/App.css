@@ -1,0 +1,14 @@
+#root {
+  /* max-width: 1280px; */
+  margin: 0 auto;
+  /* padding-bottom: 2rem; */
+  text-align: center;
+ 
+}
+.ram{
+  background-image: url('./assets/bg12.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* width: 100%;
+  height: full; */
+}
